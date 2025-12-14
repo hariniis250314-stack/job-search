@@ -1,0 +1,11 @@
+rank,job_title,company_name,job_link,similarity_score,time_posted,num_applicants
+1,Software Development Engineer,Amazon,https://www.linkedin.com/jobs/view/4342768176,0.5662828683853149,,113 applicants
+2,Data Scientist,Microsoft,https://www.linkedin.com/jobs/view/4342694048,0.3872032165527344,1 day ago,
+3,Data Science,Microsoft,https://www.linkedin.com/jobs/view/4343001460,0.36855268478393555,,38 applicants
+4,SOFTWARE ENGINEER III,Walmart Global Tech India,https://www.linkedin.com/jobs/view/4348795301,0.3521268963813782,1 day ago,
+5,Software Engineer III,Walmart Global Tech India,https://www.linkedin.com/jobs/view/4341161759,0.3521268963813782,1 day ago,
+6,Software Engineer III,Walmart Global Tech India,https://www.linkedin.com/jobs/view/4348932333,0.3521268963813782,1 day ago,47 applicants
+7,SOFTWARE ENGINEER III,Walmart Global Tech India,https://www.linkedin.com/jobs/view/4348804565,0.3521268963813782,1 day ago,62 applicants
+8,Software Engineer,Microsoft,https://www.linkedin.com/jobs/view/4342659917,0.3490847945213318,,134 applicants
+9,Software Engineer,Microsoft,https://www.linkedin.com/jobs/view/4342749404,0.3490847945213318,,62 applicants
+10,Software Engineer,Microsoft,https://www.linkedin.com/jobs/view/4342609924,0.3490847945213318,,102 applicants
